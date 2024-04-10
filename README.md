@@ -18,6 +18,8 @@ Star Force 是一个使用 Game Framework 游戏框架制作的游戏演示项�
 
 首次开启由于没有unity版本信息，选择一个unity版本打开，然后报错的话需要手动安装UnityUI包即可，遇到api升级点击升级
 
+如果使用vs的话，可以自行添加Visual Studio Editor包
+
 ---
 
 ## Game Framework 简介
